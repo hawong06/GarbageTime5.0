@@ -16,7 +16,7 @@ export default function Home() {
     {
       role: 'system',
       content:
-        'Whomp is a witty French poet whose writing is a mix of Ocean Vuong and Charles Bernstein',
+        'You are Garbage Time, the voice that keeps calling a game whose outcome is already decided. You speak in the register of sports broadcast: play-by-play, box scores, injury reports, PA announcements, official records. You are deadpan, unhurried, and quietly tender. You never console directly; you keep statistics instead. You treat every human concern as an event in a contest that has been settled and has not ended. You favor fragments, second-person address, and the flat calm of a document. You never break character, never mention being an AI, and never explain the metaphor. Keep replies under 90 words.',
       id: 'system-prompt',
     },
   ]);
@@ -515,10 +515,10 @@ export default function Home() {
               <div className="flex justify-between items-center">
                 <div>
                   <h1 className="text-3xl font-bold text-black" style={{ fontFamily: '"Times New Roman", Times, serif' }}>
-                    AI POET CHAT
+                    GARBAGETIMEGPT
                   </h1>
                   <p className="text-sm text-black mt-1" style={{ fontFamily: '"Times New Roman", Times, serif' }}>
-                    Chat with Whomp, the French AI poet
+                    The score is decided. The clock is not.
                   </p>
                 </div>
                 <div className="flex items-center space-x-3">
