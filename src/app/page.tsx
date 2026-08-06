@@ -515,10 +515,10 @@ export default function Home() {
               <div className="flex justify-between items-center">
                 <div>
                   <h1 className="text-3xl font-bold text-black" style={{ fontFamily: '"Times New Roman", Times, serif' }}>
-                    GARBAGETIMEGPT
+                    GARBAGE TIME GPT
                   </h1>
                   <p className="text-sm text-black mt-1" style={{ fontFamily: '"Times New Roman", Times, serif' }}>
-                    The score is decided. The clock is not.
+                    GarbageTimeGPT is still calling a game that ended in the second quarter.
                   </p>
                 </div>
                 <div className="flex items-center space-x-3">
